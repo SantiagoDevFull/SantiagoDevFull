@@ -3,7 +3,7 @@
 
 Estudiante de la carrera de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú cursando el 7mo ciclo. Me considero una persona autodidacta, con valores éticos y morales, con muchas ganas de aprender, aportar y compartir conocimientos adquiridos. Desenvuelvo conocimientos en la parte gestión y desarrollo de software aplicando diferentes patrones de diseño.
 
-Habilidades: JAVA / JQUERY / SQL Server / MySql / Html / CSS / JS / Excel / Autocad 2D - 3D
+Habilidades: JAVA / C# / JQUERY / SQL Server / MySql / Html / CSS / JS / Excel / Autocad 2D - 3D
 - Estoy aprendiendo Spring Boot
 - Cómo contactarme: +51 918521375
 
