@@ -11,4 +11,4 @@ Habilidades: JAVA / C# / c++ / Python / PHP / JQUERY / SQL Server / MySql / Html
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoDevFull)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/SantiagoDevFull)  
+![Profile views](https://komarev.com/ghpvc/?username=SantiagoDevFull&style=flat-square)  
